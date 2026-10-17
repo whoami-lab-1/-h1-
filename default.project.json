@@ -1,0 +1,9 @@
+{
+  "name": "FlurioreLib",
+  "tree": {
+    "$className": "ReplicatedStorage",
+    "FlurioreLib": {
+      "$path": "FlurioreLib"
+    }
+  }
+}
